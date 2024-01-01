@@ -1,5 +1,5 @@
 <h3>Olá, Sou a Laila 👋</h3>
-<p>Estou começando na área de programação, com uma base de estudos sólida!</p>
+<p>Estou começando na área de programação, mas já possuo uma base de estudos sólida!</p>
 
 <h4>Um pouco sobre mim:</h4>
 
