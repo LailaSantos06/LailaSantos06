@@ -4,7 +4,7 @@
 <h4>Um pouco sobre mim:</h4>
 
 <ul>
-  <li>💻 <strong>Tecnologias que tenho conhecimento:</strong>:
+  <li>💻 <strong>Tecnologias que tenho conhecimento</strong>:
     <ul>
       <li><code>C#</code> e <code>.NET Core</code>:</li>
       <li><code>SqlServer</code> e <code>MySql</code>.</li>
