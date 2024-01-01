@@ -1,5 +1,5 @@
 <h3>Olá, Sou a Laila 👋</h3>
-<p>Estou começando na área de programação, mas cheia de vontade e já com alguns estudos na área!</p>
+<p>Estou começando na área de programação, com uma base de estudos sólida!</p>
 
 <h4>Um pouco sobre mim:</h4>
 
@@ -33,7 +33,7 @@
 
 <!--Redes-->
 <!--Gmail
-<a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 End-->
 
 <!--Linkedin
@@ -57,8 +57,6 @@ End-->
 <!--End-->
 
 <!--FERRAMENTAS-->
-
-<!--Title -->
 </br>
 <h3>🚀Skills: </h3>
 
