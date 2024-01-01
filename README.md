@@ -6,20 +6,19 @@
 <ul>
   <li>💻 <strong>Tecnologias que tenho conhecimento</strong>:
     <ul>
-      <li><code>C#</code> e <code>.NET Core</code>:</li>
-      <li><code>SqlServer</code> e <code>MySql</code>.</li>
-      <li><code>HTML</code> e <code>CSS</code></li>
-      <li><code>EntityFramework Core</code></li>
-      <li><code>ASP.NET Core Web MVC</code> & <code>ASP.NET Core API REST</code></li>
-      <li><code>Programação Orientada a Objetos (POO)</code></li>
-      <li><code>GIT</code></li>
+      <li><code>C#</code> e <code>.NET Core</code>;</li>
+      <li><code>SqlServer</code> e <code>MySql</code>;</li>
+      <li><code>HTML</code> e <code>CSS</code>;</li>
+      <li><code>EntityFramework Core</code>;</li>
+      <li><code>ASP.NET Core Web MVC</code> & <code>ASP.NET Core API REST</code>;</li>
+      <li><code>Programação Orientada a Objetos</code>;</li>
+      <li><code>GIT</code>.</li>
     </ul>
   </li>
 <br>
   <li>🛠️ <strong>Conheço um pouco</strong>:
     <ul>
-      <li><code>Design Patterns</code> e <code>Princípios SOLID</code></li>
-      <li><code>Clean Architecture</code></li>
+      <li><code>Design Patterns</code>, <code>Princípios SOLID</code> e <code>Clean Architecture</code></li>
     </ul>
   </li>
 </ul>
